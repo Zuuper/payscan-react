@@ -1,0 +1,28 @@
+#title-sidebar {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 2rem;
+  color: white;
+}
+.sidebar-link p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.1rem;
+  margin: 0;
+}
+#route-background {
+  background-color: #f3f3f3;
+  padding: 1rem 1rem;
+}
+
+.content {
+    background-color: #F3F3F3;
+}
+aside {
+  position:fixed;
+  height: 100%;
+}
+.active {
+  color: black
+}

@@ -1,0 +1,20 @@
+#filter-section{
+    background: #FFFFFF;
+    background: #FFFFFF;
+    box-shadow: 0.0625rem 0.25rem 0.4375rem rgba(0, 0, 0, 0.25);
+    border-radius: 0.625rem;
+}
+#filter-section h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  margin: 0;
+}
+.dropdown p{
+    margin-bottom: 0;
+}
+#button-create-item{
+    border-radius: 0.625rem;
+}

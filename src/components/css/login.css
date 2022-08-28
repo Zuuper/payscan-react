@@ -1,0 +1,22 @@
+#title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: -0.05em;
+    color: #e84921;
+  }
+  .form-label {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 27px;
+    color: #000000;
+  }
+  #image-login{
+    background-image: url(../../assets/images/login_image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }

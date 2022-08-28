@@ -1,0 +1,15 @@
+.card {
+  background: #ffffff;
+  box-shadow: 1px 4px 7px rgba(0, 0, 0, 0.25);
+  border-radius: 0.8rem;
+}
+.card img {
+  background-image: url(../../assets/images/Image_placeholder.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#detail-product-image-placeholder {
+  background-image: url(../../assets/images/Image_placeholder.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
